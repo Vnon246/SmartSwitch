@@ -15,3 +15,17 @@ makers for makers
 Keep making!
 
 Vnon246
+
+Releases
+
+1.0 -> 11-03-2020
+
+First version of the proyect launched as a "preview" version
+of the proyect
+
+1.1d* -> 11-04-2020
+
+Improvement of the light sensor trigger during the daytime
+or very luminous conditions
+
+*Debug version

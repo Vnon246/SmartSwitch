@@ -19,12 +19,12 @@ Vnon246
 
 RELEASES
 
-1.0 -> 11-03-2020
+1.0 -> 11-03-2021
 
 First version of the proyect launched as a "preview" version
 of the proyect
 
-1.1d* -> 11-04-2020
+1.1d* -> 11-04-2021
 
 Improvement of the light sensor trigger during the daytime
 or very luminous conditions

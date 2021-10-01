@@ -27,17 +27,22 @@ Keep making!
 Vnon246
 
 
-RELEASES
+# RELEASES
 
 1.0 -> 11-03-2021
 
 First version of the proyect launched as a "preview" version
 of the proyect with limited capacities and no WiFi features:
 
-  -No WiFi features
-  -Based on ATMEGA328P microcontroller (Arduino nano)
-  -Cable required to connect
-  -Only 1 mode available
+  [No WiFi features]
+  
+  [Based on ATMEGA328P microcontroller (Arduino nano)]
+  
+  [Cable required to connect]
+  
+  [Only 1 mode available]
+  
+
 
 1.1d* -> 11-04-2021
 
@@ -53,8 +58,12 @@ WiFi features and a completely new aspect.It will have an RGB
 light indicator and a buzzer to indicate different aspects of 
 the device and a bunch of new features:
 
-  -New platform based on ESP8266 microcontroller
-  -RGB + Sound indicator
-  -New and renovated design
-  -New APP + WiFi features
-  -Other secrets...
+  [New platform based on ESP8266 microcontroller]
+  
+  [RGB + Sound indicator]
+  
+  [New and renovated design]
+  
+  [New APP + WiFi features]
+  
+  [Other secrets...]

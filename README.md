@@ -1,5 +1,5 @@
 # SmartSwitch
-Welcome to proyect SmartSwitch by XT!
+Welcome to proyect SmartSwitch by XT Labs!
 
 SmartSwitch borns as a new way to create a smart-button
 based on a bunch of different sensors that can read and

@@ -62,6 +62,8 @@ the device and a bunch of new features:
   
   [RGB + Sound indicator]
   
+  [Wireless connection]
+  
   [New and renovated design]
   
   [New APP + WiFi features]

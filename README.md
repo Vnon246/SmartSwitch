@@ -25,7 +25,7 @@ Keep making!
 Vnon246
 
 
-# RELEASES
+# Releases
 
 1.0 -> 11-03-2021
 

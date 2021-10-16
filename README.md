@@ -6,15 +6,13 @@ based on a bunch of different sensors that can read and
 detect different objects and distances, also it has two
 different modes depending of which use is intended for.
 
-It also have a new app based on Blynk Cloud© to control
-all the differents mode and uses of SmartSwitch and all
-of these work behind the proyect its completely free and
-open-source! (GPL V3 License)
+It also have a new web app based on Telegram API to control
+and setup the differents modes of SmartSwitch 
 
-As i say it before all of these code its available below
-for free and licensed under a GPL V3 license that means that
-you can make part of it by helping us debugging code or even making
-your own versions! Remember that you are an essential part here
+All the code of the proyect its available below for free and licensed 
+under a GPL V3 license, that means that you can make part of it by 
+helping us debugging code or even making your own versions! 
+Remember that you are an essential part here
 
 We hope you learn something new with us that its what motivate us to keep working
 and making! :)
@@ -38,7 +36,7 @@ of the proyect with limited capacities and no WiFi features:
   
   [Based on ATMEGA328P microcontroller (Arduino nano)]
   
-  [Cable required to connect]
+  [Wired connection]
   
   [Only 1 mode available]
   

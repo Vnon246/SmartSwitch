@@ -51,7 +51,7 @@ switch trigger during the daytime or very luminous conditions
 1.5 -> 25-10-2021
 
 New version of the proyect with little improvements like 
-the integration of a new modes (switch + push mode) and a
+the integration of two new modes (switch + push mode) and a
 smart light detection function for automatic setting of the
 ldr-switch deppending of the luminous conditions of the area
 

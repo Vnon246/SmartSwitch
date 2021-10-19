@@ -38,9 +38,8 @@ of the proyect with limited capacities and no WiFi features:
   
   [Wired connection]
   
-  [Only 1 mode available]
+  [Only 1 mode available (push-mode)]
   
-
 
 1.1d* -> 11-04-2021
 
@@ -49,21 +48,16 @@ switch trigger during the daytime or very luminous conditions
 
 *Debug version
 
-2.0 (SmartSwitch NEO) -> Coming soon
+1.5 -> 25-10-2021
 
-A completely renovated version of the proyect with a set of 
-WiFi features and a completely new aspect.It will have an RGB
-light indicator and a buzzer to indicate different aspects of 
-the device and a bunch of new features:
+New version of the proyect with little improvements like 
+the integration of a new modes (switch + push mode) and a
+smart light detection function for automatic setting of the
+ldr-switch deppending of the luminous conditions of the area
 
-  [New platform based on ESP8266 microcontroller]
+  [New modes available (push-mode, switch-mode)]
   
-  [RGB + Sound indicator]
+  [LDR-switch smart light detection]
   
-  [Wireless connection]
+  [Setup menu]
   
-  [New and renovated design]
-  
-  [New APP + WiFi features]
-  
-  [Other secrets...]

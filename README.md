@@ -51,13 +51,14 @@ switch trigger during the daytime or very luminous conditions
 1.5 -> 25-10-2021
 
 New version of the proyect with little improvements like 
-the integration of two new modes (switch + push mode) and a
-smart light detection function for automatic setting of the
-ldr-switch deppending of the luminous conditions of the area
+the integration of SmartLDR-switch technology, a new function 
+integrated in the proyect to automatically detect the
+luminous conditions of the area and enable or disable ldr
+reading.And a new configuration menu based on Serial communication
 
-  [New modes available (push-mode, switch-mode)]
+  [New modes (push-mode, switch-mode (soon available))]
   
-  [LDR-switch smart light detection]
+  [SmartLDR-switch]
   
   [Setup menu]
   

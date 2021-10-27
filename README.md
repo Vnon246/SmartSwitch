@@ -3,11 +3,8 @@ Welcome to proyect SmartSwitch by XT Labs!
 
 SmartSwitch borns as a new way to create a smart-button
 based on a bunch of different sensors that can read and
-detect different objects and distances, also it has two
-different modes depending of which use is intended for.
-
-It also have a new web app based on Telegram API to control
-and setup the differents modes of SmartSwitch 
+detect different conditions and distances.All of this based
+on Arduino Platform!
 
 All the code of the proyect its available below for free and licensed 
 under a GPL V3 license, that means that you can make part of it by 

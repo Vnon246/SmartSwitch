@@ -45,7 +45,7 @@ switch trigger during the daytime or very luminous conditions
 
 *Debug version
 
-1.5 -> 25-10-2021
+1.5 -> 28-10-2021
 
 New version of the proyect with little improvements, like 
 the integration of SmartLDR-switch technology, a new function 

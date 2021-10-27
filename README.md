@@ -53,7 +53,7 @@ integrated in the proyect to automatically detect the
 luminous conditions of the area and enable or disable ldr
 reading.And a new configuration menu based on Serial communication
 
-  [New modes (push-mode, switch-mode (soon available))]
+  [New modes (push-mode, switch-mode (soon available) )]
   
   [SmartLDR-switch]
   

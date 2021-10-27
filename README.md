@@ -47,7 +47,7 @@ switch trigger during the daytime or very luminous conditions
 
 1.5 -> 25-10-2021
 
-New version of the proyect with little improvements like 
+New version of the proyect with little improvements, like 
 the integration of SmartLDR-switch technology, a new function 
 integrated in the proyect to automatically detect the
 luminous conditions of the area and enable or disable ldr

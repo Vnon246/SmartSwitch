@@ -8,7 +8,7 @@ on Arduino Platform!
 
 All the code of the proyect its available below for free and licensed 
 under a GPL V3 license, that means that you can make part of it by 
-helping us debugging code, or even making your own versions!Remember that 
+helping us debugging code, or even making your own versions! Remember that 
 you are an essential part here
 
 We hope you learn something new with us, that its what motivate us to keep working

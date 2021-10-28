@@ -12,10 +12,8 @@ helping us debugging code, or even making your own versions!
 Remember that you are an essential part here
 
 We hope you learn something new with us, that its what motivate us to keep working
-and making! :)
-
-You are free to apport new ideas to the proyect, this is a community proyect made by
-makers for makers
+and making! :).Also you are free to apport new ideas to the proyect, this is a community 
+proyect made by makers for makers
 
 Keep making!
 

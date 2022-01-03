@@ -138,7 +138,7 @@ void SmartSwitch(){
       
       if (sw_mode == 2){
 
-        if (ldr_val <= 500 && us_val <= 5){ 
+        if (us_val <= 5){ 
 
           //Change and show device output and turn on indicator LED
         

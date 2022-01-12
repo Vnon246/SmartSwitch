@@ -1,4 +1,5 @@
-# SmartSwitch
+# [SmartSwitch_logo](https://user-images.githubusercontent.com/45925042/149219052-c224d984-61f1-465c-bf30-d2c309c630a7.png)
+
 Welcome to proyect SmartSwitch by XT LABS!
 
 SmartSwitch borns as a new way to create a smart-button

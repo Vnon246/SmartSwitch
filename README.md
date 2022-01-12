@@ -1,4 +1,4 @@
-# [SmartSwitch_logo](https://user-images.githubusercontent.com/45925042/149219052-c224d984-61f1-465c-bf30-d2c309c630a7.png)
+#![SmartSwitch_logo](https://user-images.githubusercontent.com/45925042/149219179-cce26c50-fce7-4855-9db4-0649a2affef1.png)
 
 Welcome to proyect SmartSwitch by XT LABS!
 

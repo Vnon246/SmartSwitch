@@ -2,10 +2,18 @@
 
 Welcome to proyect SmartSwitch by XT LABS!
 
-SmartSwitch borns as a new way to create a smart-button
+SmartSwitch borns as a new way to create a programmable smart-button
 based on a bunch of different sensors that can read and
 detect different conditions and distances.All of this based
 on Arduino Platform!
+
+To program your device just connect to a USB port and open Arduino
+Serial monitor to access the setup menu, then select your device mode
+and SmartLDR function should automatically start (an smart-function used
+by SmartSwitch to automatically detect the luminous conditions of the area)
+
+You can also integrate SmartSwitch with other proyects!Check the manual
+for more info about it
 
 All the code of the proyect its available below for free and licensed 
 under a GPL V3 license, that means that you can make part of it by 
@@ -19,7 +27,6 @@ proyect made by makers for makers
 Keep making!
 
 Vnon246
-
 
 # Releases
 

@@ -34,9 +34,7 @@ NewPing sw_us(trigger_pin,echo_pin,max_distance);
 //Auxiliar variables
 
 int sw_ldr = 0; //Auxiliar variable to store the ldr-switch pin
-
 int sw_led = 13;  //Auxiliar variables to store the status led pin
-int sw_bz = 10; //Auxiliar variable to store the status-buzzer pin
 
 int sw_out = 0; //Auxiliar variable for the device output signal
 int sw_mode = 0; //Auxiliar variable for the device mode setup

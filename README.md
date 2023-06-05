@@ -1,26 +1,30 @@
 # ![SmartSwitch_logo](https://user-images.githubusercontent.com/45925042/149219179-cce26c50-fce7-4855-9db4-0649a2affef1.png)
 
-Welcome to proyect SmartSwitch by XT LABS!
 
-SmartSwitch borns as a new way to create a programmable smart-button
-based on a bunch of different sensors that can read and
-detect different conditions and distances.All of this based
-on Arduino Platform!
+# PRESENTATION/PRESENTACIÓN
 
-All the code of the proyect its available below for free and licensed 
-under a GPL V3 license, that means that you can make part of it by 
-helping us debugging code, or even making your own versions! Remember that 
-you are an essential part here
+(ENGLISH)
 
-We hope you learn something new with us, that is what motivate us to keep working
-and making! :).Also you are free to apport new ideas to the proyect, this is a community 
-proyect made by makers for makers
+SmartSwitch born as the first project developed by XTLABS, the idea of this project was quite simple, we wanted to make a programmable smart-button based on the Arduino platform.We select these platform because its simple programming and big community around 
 
-Keep making!
+To make this project possible we integrated different sensors to make the button more precise and open the possibility to make more projects based on it (you can use as a sensor for something for example ;) ).It also has an integrated serial menú that you will use to set up the device
 
-Vnon246
+At first it can look difficult to understand all this lines of codes, we are learning like you and we are constantly trying to be closer for everyone, but if you take your time you can understand something
 
-# Releases
+You can visit our website to learn more of our works and learn about Arduino platform, you can find us at  http://xtinformatica2.000webhostapp.com/index.html  , don't forgot to visit we always like to see new people around here
+
+
+(ESPAÑOL)
+
+SmartSwitch nace como el primer proyecto desarrollado por XTLABS, la idea de este proyecto era bastante simple, queríamos hacer un botón inteligente programable basado en la plataforma Arduino.Seleccionamos esta plataforma porque su programación es simple y tiene una  gran comunidad alrededor
+
+Para hacer posible este proyecto, integramos diferentes sensores para hacer que el botón sea más preciso y abrir la posibilidad de hacer más proyectos basados en él (puedes usarlo como sensor para algo, por ejemplo;)). También tiene un menú serial integrado que puedes utilizar para configurar el dispositivo
+
+De primeras puede parecer difícil entender todas estas líneas de código, nosotros también estamos aprendiendo como tú y estamos constantemente tratando de acercarnos a todos, pero si te tomas tu tiempo puedes entender algo
+
+Puedes visitar nuestra web para aprender mas sobre nuestros trabajos y aprender a utilizar Arduino, puedes encontrarnos en  http://xtinformatica2.000webhostapp.com/index.html , no te olvides de visitarnos siempre nos gusta ver nuevas personas por aquí
+
+# RELEASES/VERSIONES
 
 1.0 -> 11-03-2021
 
